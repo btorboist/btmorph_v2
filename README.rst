@@ -11,6 +11,12 @@ v2 is a refactored version and an object-oriented design. As such, the features 
 Installation
 ------------
 
+It can be installed using pip:
+
+`pip install btmorph2`
+
+This will also install the required dependencies. Use of a virtual environment is suggested.
+
 Prerequisites 
 ~~~~~~~~~~~~~~
 
