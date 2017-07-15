@@ -16,7 +16,8 @@ setup(
         'Programming Languge :: Python :: 2',
         'Programming Languge :: Python :: 2.7',
     ],
-    install_requires = ['h5py', 'numpy', 'scipy', 'matplotlib', 'ipython'],
+    install_requires = ['h5py', 'numpy', 'scipy', 'matplotlib', 'ipython',
+                        'pycrypto'],
     include_package_data = True,
     extras_require = {
         'test': ['nosetests']
