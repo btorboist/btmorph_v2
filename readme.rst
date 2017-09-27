@@ -1,6 +1,9 @@
 btmorph v2
 ===========
 
+.. image:: https://travis-ci.org/sanjayankur31/btmorph_v2.svg?branch=master
+    :target: https://travis-ci.org/sanjayankur31/btmorph_v2
+
 Introduction
 ------------
 
@@ -18,12 +21,13 @@ You will need Python (2.7), `Numpy <http://numpy.org>`_ / `Scipy <http://scipy.o
 
 v2 is a new, object-oriented version of btmorph with a cleaner interface (API).
 
-v2 Also allows 3D plotting and animations using openGL. The following libraries are also required when using the plot3DGL function: `imageio <https://imageio.github.io/>`_ and `openGL <http://pyopengl.sourceforge.net/>`_. 
+v2 Also allows 3D plotting and animations using openGL. The following libraries are also required when using the plot3DGL function: `imageio <https://imageio.github.io/>`_ and `openGL <http://pyopengl.sourceforge.net/>`_.
 
 * Linux: Most linux distributions contain versions of these packages in their package manager that can readily be installed.
 
 * Windows and Mac: There are "scientific python" bundles that are shipped with all the aforementioned packages; most famously from `Anaconda <http://docs.continuum.io/anaconda/install.html>`_ or `Enthough <https://www.enthought.com/products/epd/free/>`_. Alternatively check the Ipython `installation <http://ipython.org/install.html>`_.
 
+* The required packages can be installed using `pip`: `pip install -r requirements.txt`. Use of a virtual environment is suggested when using `pip`.
 
 
 Proper installation

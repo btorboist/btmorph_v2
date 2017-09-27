@@ -7,3 +7,4 @@ pillow
 scipy
 nose
 pycrypto
+ipython
