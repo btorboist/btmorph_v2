@@ -1,0 +1,9 @@
+numpy
+matplotlib
+h5py
+PyOpenGL
+imageio
+pillow
+scipy
+nose
+pycrypto
